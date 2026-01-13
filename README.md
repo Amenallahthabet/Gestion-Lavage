@@ -17,9 +17,6 @@ Il facilite la gestion des **clients**, des **voitures** et des **employés**, a
 - MySQL
 - HTML / CSS / Bootstrap
 
-## 📷 Aperçu du projet
-
-
 ## 👤 Auteur
-- Nom : *Ton nom*
-- Projet académique / personnel
+- Nom : *Amen Allah Thabet*
+
